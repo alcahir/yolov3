@@ -10,8 +10,6 @@ storage.googleapis.com
 data/samples/*
 !data/samples/zidane.jpg
 !data/samples/bus.jpg
-**/results*.txt
-*.jpg
 
 # Neural Network weights -----------------------------------------------------------------------------------------------
 **/*.weights
