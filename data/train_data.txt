@@ -1223,10 +1223,3 @@ datasets/images/train/train_1221.jpg
 datasets/images/train/train_1222.jpg
 datasets/images/train/train_1223.jpg
 datasets/images/train/train_1224.jpg
-datasets/images/train/train_1225.jpg
-datasets/images/train/train_1226.jpg
-datasets/images/train/train_1227.jpg
-datasets/images/train/train_1228.jpg
-datasets/images/train/train_1229.jpg
-datasets/images/train/train_1230.jpg
-datasets/images/train/train_1231.jpg
