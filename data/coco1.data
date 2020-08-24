@@ -1,4 +1,3 @@
-classes=80
-train=data/coco1.txt
-valid=data/coco1.txt
+classes=1
+train=data/test_data.txt
 names=data/coco.names
