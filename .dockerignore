@@ -12,8 +12,6 @@ data/samples/*
 !data/samples/bus.jpg
 
 # Neural Network weights -----------------------------------------------------------------------------------------------
-**/*.weights
-**/*.pt
 **/*.pth
 **/*.onnx
 **/*.mlmodel
